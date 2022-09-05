@@ -1,0 +1,14 @@
+C:\Users\Grant\OneDrive\Desktop\Repos\EncapsulationIntro\EncapsulationIntro\bin\Debug\netcoreapp3.1\EncapsulationIntro.exe
+C:\Users\Grant\OneDrive\Desktop\Repos\EncapsulationIntro\EncapsulationIntro\bin\Debug\netcoreapp3.1\EncapsulationIntro.deps.json
+C:\Users\Grant\OneDrive\Desktop\Repos\EncapsulationIntro\EncapsulationIntro\bin\Debug\netcoreapp3.1\EncapsulationIntro.runtimeconfig.json
+C:\Users\Grant\OneDrive\Desktop\Repos\EncapsulationIntro\EncapsulationIntro\bin\Debug\netcoreapp3.1\EncapsulationIntro.runtimeconfig.dev.json
+C:\Users\Grant\OneDrive\Desktop\Repos\EncapsulationIntro\EncapsulationIntro\bin\Debug\netcoreapp3.1\EncapsulationIntro.dll
+C:\Users\Grant\OneDrive\Desktop\Repos\EncapsulationIntro\EncapsulationIntro\bin\Debug\netcoreapp3.1\EncapsulationIntro.pdb
+C:\Users\Grant\OneDrive\Desktop\Repos\EncapsulationIntro\EncapsulationIntro\obj\Debug\netcoreapp3.1\EncapsulationIntro.csproj.AssemblyReference.cache
+C:\Users\Grant\OneDrive\Desktop\Repos\EncapsulationIntro\EncapsulationIntro\obj\Debug\netcoreapp3.1\EncapsulationIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Grant\OneDrive\Desktop\Repos\EncapsulationIntro\EncapsulationIntro\obj\Debug\netcoreapp3.1\EncapsulationIntro.AssemblyInfoInputs.cache
+C:\Users\Grant\OneDrive\Desktop\Repos\EncapsulationIntro\EncapsulationIntro\obj\Debug\netcoreapp3.1\EncapsulationIntro.AssemblyInfo.cs
+C:\Users\Grant\OneDrive\Desktop\Repos\EncapsulationIntro\EncapsulationIntro\obj\Debug\netcoreapp3.1\EncapsulationIntro.csproj.CoreCompileInputs.cache
+C:\Users\Grant\OneDrive\Desktop\Repos\EncapsulationIntro\EncapsulationIntro\obj\Debug\netcoreapp3.1\EncapsulationIntro.dll
+C:\Users\Grant\OneDrive\Desktop\Repos\EncapsulationIntro\EncapsulationIntro\obj\Debug\netcoreapp3.1\EncapsulationIntro.pdb
+C:\Users\Grant\OneDrive\Desktop\Repos\EncapsulationIntro\EncapsulationIntro\obj\Debug\netcoreapp3.1\EncapsulationIntro.genruntimeconfig.cache
